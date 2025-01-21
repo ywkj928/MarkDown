@@ -17,13 +17,10 @@
 ###### This is a H6
 ####### This is a H7 (지원하지 않음)
 
-
-
 ## 2. BlockQuote
 > This is a first blockqute.
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
-
 
 ## 3. 목록 
 * 순서있는 목록(번호)
@@ -39,7 +36,7 @@
 
 딱히 개선될 것 같지는 않다. 존 그루버가 신경안쓰고 있다고...
 
-* 순서없는 목록(글머리 기호: *, +, - 지원)
+* ### 순서없는 목록(글머리 기호: *, +, - 지원)
 
 * 빨강
   * 녹색
