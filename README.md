@@ -1,5 +1,5 @@
-# MarkDown 
-==================
+# MarkDown 작성법
+
 ## 1. 마크다운 사용법(문법)
 * #### 큰제목: 문서 제목
   
@@ -17,7 +17,7 @@
 ##### This is a H5
 ###### This is a H6
 ####### This is a H7 (지원하지 않음)
-=============================
+
 ## 2. BlockQuote
 > This is a first blockqute.
 >	> This is a second blockqute.
