@@ -65,4 +65,30 @@ This is a normal paragraph:
     
 end code block.
 
+한줄 띄어쓰지 않으면 인식이 제대로 안되는 문제가 발생합니다.
+
+This is a normal paragraph:
+    This is a code block.
+end code block.
+
+## 5.코드블럭
+코드블럭은 다음과 같이 2가지 방식을 사용할 수 있습니다:
+
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+
+}
+</code>
+</pre>
+
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+
   
