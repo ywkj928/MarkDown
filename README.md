@@ -1,16 +1,14 @@
 # MarkDown
 ## 1. 마크다운 사용법(문법)
-* 큰제목: 문서 제목
+* #### 큰제목: 문서 제목
   
 # This is an H1
-* 작은제목: 문서 부제목
+* #### 작은제목: 문서 부제목
   
 ### This is an H2
 # This is an H2
 
-
-
-* ### 글머리: 1~6까지만 지원
+* #### 글머리: 1~6까지만 지원
 # This is a H1
 ## This is a H2
 ### This is a H3
@@ -115,3 +113,39 @@ public class BootSpringBootApplication {
 
 ---------------------------------------
   
+## 7. 링크
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+* 외부링크
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
+
+
+* 자동연결
+일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
+
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+
+## 8. 강조
+
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+
+문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.
+문장 중간에 사용할 경우에는 띄어쓰기를 사용하는 것이 좋다.
+
+## 9. 이미지
+
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
