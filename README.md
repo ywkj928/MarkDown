@@ -147,9 +147,9 @@ __double underscores__
 
 ## 9. 이미지
 
-![Alt text](/path/to/복이.jpg)
-![Alt text](/path/to/복이.jpg "Optional title")
-
-<img src="/path/to/복이.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="고양이"></img><br/>
-<img src="/path/to/복이.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="고양이"></img>
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
+![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
+![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
 
