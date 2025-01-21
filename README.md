@@ -152,19 +152,19 @@ __double underscores__
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-![브리티시 숏헤어](https://www.royalcanin.com/kr/cats/breeds/british-shorthair)
-![브리티시 숏헤어](https://www.royalcanin.com/kr/cats/breeds/british-shorthair "브리티시 숏헤어")
+![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
+![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
 
 예
 ```
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="브리티시 숏헤어"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="브리티시 숏헤어"></img>
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ```
 
-<img src="https://www.royalcanin.com/kr/cats/breeds/british-shorthair" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="브리티시 숏헤어"></img><br/>
-<img src="https://www.royalcanin.com/kr/cats/breeds/british-shorthair" width="40%" height="30%" title="%(비율) 크기 설정" alt="브리티시 숏헤어"></img>
+<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 
 ## 10. 줄바꿈
