@@ -69,7 +69,7 @@ This is a normal paragraph:
     This is a code block.
 end code block.
 
-## 5.코드블럭
+## 5. 코드블럭
 * #### 코드블럭은 다음과 같이 2가지 방식을 사용할 수 있습니다:
 
 <pre>
@@ -147,7 +147,6 @@ __double underscores__
 
 ## 9. 이미지
 
-## 2.8. 이미지
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
@@ -167,3 +166,11 @@ __double underscores__
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 
+## 10. 줄바꿈
+* #### 3칸 이상 띄어쓰기( )를 하면 줄이 바뀐다.
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 
+이렇게
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다.___\\ 띄어쓰기
+이렇게
