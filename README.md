@@ -8,7 +8,7 @@
 ### This is an H2
 # This is an H2
 
-* 글머리: 1~6까지만 지원
+* ### 글머리: 1~6까지만 지원
 # This is a H1
 ## This is a H2
 ### This is a H3
@@ -23,7 +23,7 @@
 >	>	> This is a third blockqute.
 
 ## 3. 목록 
-* 순서있는 목록(번호)
+* ### 순서있는 목록(번호)
 1. 첫번째
 2. 두번째
 3. 세번째
