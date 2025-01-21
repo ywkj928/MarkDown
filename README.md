@@ -72,7 +72,7 @@ This is a normal paragraph:
 end code block.
 
 ## 5.코드블럭
-코드블럭은 다음과 같이 2가지 방식을 사용할 수 있습니다:
+* ### 코드블럭은 다음과 같이 2가지 방식을 사용할 수 있습니다:
 
 <pre>
 <code>
@@ -85,10 +85,33 @@ public class BootSpringBootApplication {
 </code>
 </pre>
 
+* ### 코드블럭코드("'''")을 이용하는 방법
+```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
   }
 }
+```
 
+* ### 깃헙에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 문법강조(Syntax highlighting)이 가능하다.
+```java
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
+
+## 6. 수평선 <hr/>
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
   
