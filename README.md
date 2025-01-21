@@ -150,5 +150,6 @@ __double underscores__
 ![Alt text](/path/to/복이.jpg)
 ![Alt text](/path/to/복이.jpg "Optional title")
 
-<img src="/path/to/복이.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="복이"></img><br/>
-<img src="/path/to/복이.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="복이"></img>
+<img src="/path/to/복이.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="고양이"></img><br/>
+<img src="/path/to/복이.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="고양이"></img>
+
