@@ -17,7 +17,32 @@
 ###### This is a H6
 ####### This is a H7 (지원하지 않음)
 
+
+
 ## 2. BlockQuote
 > This is a first blockqute.
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
+
+
+## 3. 목록 
+* 순서있는 목록(번호)
+1. 첫번째
+2. 두번째
+3. 세번째
+
+현재까지는 어떤 번호를 입력해도 순서는 내림차순으로 정의된다.
+
+1. 첫번째
+3. 세번째
+2. 두번째
+
+딱히 개선될 것 같지는 않다. 존 그루버가 신경안쓰고 있다고...
+
+
+
+
+
+
+
+  
